@@ -74,6 +74,7 @@
             </div>
 
             <div class="col-md-12" style="text-align: right">
+            
                 <button id="btn-obrisi" class="btn btn-danger" style="background-color: red; border: 1px solid white;">Obrisi</button>
             </div>
 
